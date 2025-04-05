@@ -22,15 +22,3 @@ Berikut adalah daftar proyek yang telah dibuat oleh Rerechan02:
 7. [Tunnel With Cloudflare](https://github.com/DindaPutriFN/Argo-Tunnel)
    - Script Otomatis mengkonfigurasi kebutuhan tunneling menggunakan Argo Tunnel pada Limux Server untuk Proxy pada port http 80.
 
-Untuk panduan lebih lanjut, silakan kunjungi [GitHub DindaPutriFN](https://github.com/DindaPutriFN).
-
-## Hubungi
-Jika Anda memiliki pertanyaan atau ide untuk proyek baru, jangan ragu untuk menghubungi Rerechan02 melalui:
-
-- **Telegram**: [@Rerechan02](https://t.me/Rerechan02)
-- **Saluran**: [@Rerechan02](https://t.me/fn_project)
-- **GitHub**: [Rerechan02](https://github.com/DindaPutriFN)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DindaPutriFN&show_icons=true&count_private=true)
-
-Mari bersama-sama membangun ekosistem teknologi yang lebih baik!
