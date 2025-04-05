@@ -1,5 +1,5 @@
 ## Proyek yang Dikembangkan
-Berikut adalah daftar proyek yang telah dibuat oleh Rerechan02:
+Berikut adalah daftar proyek :
 
 1. [Autoscript](https://github.com/DindaPutriFN/Autoscript)
    - Skrip otomatisasi untuk manajemen server berbasis Linux, membantu pengguna dengan berbagai fitur seperti pembuatan akun SSH dan konfigurasi jaringan.
