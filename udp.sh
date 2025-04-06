@@ -9,7 +9,7 @@ iptables -t nat -I POSTROUTING -s 10.8.0.0/24 -o eth0 -j MASQUERADE
 echo 1 > /proc/sys/net/ipv4/ip_forward
 
 # Instalasi UDP Custom
-wget -q -O /usr/local/bin/udp-custom "https://raw.githubusercontent.com/FunyVPN/udp-custom/main/udp-custom-linux-amd64"
+wget -q -O /usr/local/bin/udp-custom "https://raw.githubusercontent.com/Nizwara/Dongkhe/main/udp-custom-linux-amd64"
 chmod +x /usr/local/bin/udp-custom
 
 # Buat Service
